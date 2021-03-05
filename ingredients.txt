@@ -1,2 +1,2 @@
-avocadoes
-sass
+3 part avocadoes
+1 part sass
